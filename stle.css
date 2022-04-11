@@ -1,0 +1,29 @@
+body,p {
+    
+    font-family:arial;
+    font-size:16px;
+    font-weight:bolder;
+    color: black;
+    background-color: white;
+   }
+#h{
+    text-transform: capitalize;
+    text-shadow: green;
+
+}
+#h :hover{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
+   
+      .container {
+          width: 500px;
+          clear: both;
+      }
+      .container input {
+          width: 100%;
+          clear: both;
+      }
+  
